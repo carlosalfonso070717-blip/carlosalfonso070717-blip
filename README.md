@@ -1,21 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3EA,100:A4D99C&height=200&section=header&text=Carlos%20Llanes&fontSize=58&fontColor=0a0a0a&fontAlignY=38&animation=fadeIn&desc=Estudiante%20de%20Desarrollo%20de%20Software%20%C2%B7%20Miembro%20IEEE&descAlignY=58&descSize=18"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=3000&pause=1000&color=6FC3EA&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Carlos+Llanes;Estudiante+de+Desarrollo+de+Software;Miembro+IEEE+%7C+M%C3%A9rida%2C+M%C3%A9xico" alt="Typing SVG" />
-
-### 👋 Bienvenido a mi perfil
-
-Estudiante en **Desarrollo de Software y Negocios Digitales**, enfocado en **Java, POO y buenas prácticas de ingeniería**, con interés genuino en construir código limpio y entender cómo funcionan los sistemas por dentro. Miembro activo del **IEEE**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6FC3EA&center=true&vCenter=true&width=650&lines=Java+%7C+POO+%7C+Spring+Boot;Miembro+activo+del+IEEE;M%C3%A9rida%2C+Yucat%C3%A1n+%C2%B7+M%C3%A9xico" alt="Typing SVG" />
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-mi--portafolio-6FC3EA?style=for-the-badge&logo=vercel&logoColor=0a0a0a)](https://mi-portafolio-delta-blue.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alfonso-llanes-rodriguez-1672753a5/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529987692628)
 [![Email](https://img.shields.io/badge/Email-Contáctame-A4D99C?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:carlosalfonso070717@gmail.com)
 
+![Profile views](https://komarev.com/ghpvc/?username=carlosalfonso070717-blip&color=6fc3ea&style=flat-square&label=Visitas+al+perfil)
+
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6FC3EA,100:A4D99C&height=3&section=header"/>
 
 ## 🚀 Sobre mí
 
@@ -33,9 +29,8 @@ Estudiante en **Desarrollo de Software y Negocios Digitales**, enfocado en **Jav
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,git,github,bash,linux,html,css,js,cs,postgres,vercel&theme=dark" alt="Tech stack icons" />
-</div>
 
-<div align="center">
+<br/><br/>
 
 `Java` `POO` `Python` `SQL` `C#` `Git & GitHub` `Bash / Linux` `HTML` `Spring Boot` `PostgreSQL`
 
@@ -169,9 +164,27 @@ Estudiante en **Desarrollo de Software y Negocios Digitales**, enfocado en **Jav
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosalfonso070717-blip&theme=dark&hide_border=true&background=070d0f&ring=6FC3EA&fire=A4D99C&currStreakLabel=6FC3EA" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosalfonso070717-blip&bg_color=070d0f&color=6fc3ea&line=6fc3ea&point=a4d99c&area=true&area_color=6fc3ea&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Activity graph"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=carlosalfonso070717-blip&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6FC3EA,100:A4D99C&height=3&section=header"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosalfonso070717-blip/carlosalfonso070717-blip/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosalfonso070717-blip/carlosalfonso070717-blip/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/carlosalfonso070717-blip/carlosalfonso070717-blip/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -185,3 +198,5 @@ Estudiante en **Desarrollo de Software y Negocios Digitales**, enfocado en **Jav
 <sub>© 2026 — Carlos Alfonso Llanes Rodríguez</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3EA,100:A4D99C&height=100&section=footer"/>
