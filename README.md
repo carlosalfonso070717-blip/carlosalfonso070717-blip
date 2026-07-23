@@ -24,7 +24,7 @@ Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica det
 ### 🏆 Reconocimientos
 
 - 🥇 &nbsp;**1er lugar — Buildathon _Happ3n_**, Tecnológico de Software
-- 🌟 &nbsp;**Talento seleccionado — Accenture Mérida**, 1 de 6 elegidos para una visita técnica
+- 🌟 &nbsp;**Talento seleccionado — Accenture Mérida**, 1 de 6 elegidos durante una visita
 
 ### ⚡ Ahora mismo
 
