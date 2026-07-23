@@ -13,32 +13,53 @@
 
 </div>
 
-## 🚀 Sobre mí
+<br/>
 
-- 🎓 Estudiante en **Desarrollo de Software y Negocios Digitales**
-- 📡 Miembro activo del **IEEE** (Institute of Electrical and Electronics Engineers)
-- 🛠️ Actualmente profundizando en **Java, Spring Boot** y control de versiones
-- 🏆 1er lugar en el Buildathon *Happ3n* del Tecnológico de Software
-- 🌟 Seleccionado entre los talentos destacados en una visita técnica a **Accenture Mérida**
-- 📍 Mérida, Yucatán, México
-- 💬 Disponible para prácticas profesionales y proyectos de colaboración
+> 🎓 Estudiante en **Desarrollo de Software y Negocios Digitales** &nbsp;·&nbsp; 📡 Miembro activo del **IEEE** &nbsp;·&nbsp; 📍 Mérida, Yucatán, México &nbsp;·&nbsp; 💬 Disponible para prácticas profesionales
+
+Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica detrás de los algoritmos, la estructura que hace el código mantenible y los procesos que garantizan la calidad del producto. Actualmente profundizando en **Java, Spring Boot** y buenas prácticas de ingeniería de software.
+
+<br/>
+
+### 🏆 Reconocimientos
+
+- 🥇 &nbsp;**1er lugar — Buildathon _Happ3n_**, Tecnológico de Software
+- 🌟 &nbsp;**Talento seleccionado — Accenture Mérida**, 1 de 6 elegidos para una visita técnica
+
+### ⚡ Ahora mismo
+
+- 🛠️ &nbsp;Construyendo backends con **Spring Boot + PostgreSQL**
+- 🌱 &nbsp;Reforzando **SQL** y arquitectura de software
+- 🤝 &nbsp;Abierto a colaborar en proyectos de equipo
 
 <br/>
 
 ## 🧰 Stack técnico
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,git,github,bash,linux,html,css,js,cs,postgres,vercel&theme=dark" alt="Tech stack icons" />
 
 <br/><br/>
 
-`Java` `POO` `Python` `SQL` `C#` `Git & GitHub` `Bash / Linux` `HTML` `Spring Boot` `PostgreSQL`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![POO](https://img.shields.io/badge/POO-6FC3EA?style=flat-square&logo=codefactor&logoColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-A4D99C?style=flat-square&logo=csharp&logoColor=0a0a0a)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0a0a0a)
 
 </div>
 
-<br/>
-
-**Habilidades blandas:** Resolución de problemas · Pensamiento analítico · Adaptabilidad · Comunicación efectiva · Empatía · Trabajo en equipo · Liderazgo
+<div align="center">
+<sub><b>Habilidades blandas</b> — Resolución de problemas · Pensamiento analítico · Adaptabilidad · Comunicación efectiva · Empatía · Trabajo en equipo · Liderazgo</sub>
+</div>
 
 <br/>
 
@@ -46,59 +67,21 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Platzi-Java%20(B%C3%A1sico)-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/><br/>
-<sub>Fundamentos de POO, colecciones y buenas prácticas</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/IEEE-Miembro%20Activo-00629B?style=for-the-badge&logo=ieee&logoColor=white"/><br/>
-<sub>Institute of Electrical and Electronics Engineers</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/DataCamp-DSA%20in%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/><br/>
-<sub>Listas, pilas, colas, árboles y ordenamiento</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Platzi-Dev%20Backend-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/><br/>
-<sub>Protocolos, servidores y arquitectura web</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/HackerRank-Python%20(B%C3%A1sico)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br/>
-<sub>Tipos de datos, funciones y excepciones</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/DataCamp-SQL%20Intermedio-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/><br/>
-<sub>Joins, subconsultas y funciones agregadas</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
-<sub>Cómputo en la nube, seguridad y arquitectura</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Platzi-Fundamentos%20.NET-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/><br/>
-<sub>Sintaxis de C# y ecosistema .NET</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
-<sub>Networking y configuración de dispositivos</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Sololearn-Java%20Intermedio-1AB3A3?style=for-the-badge&logo=sololearn&logoColor=white"/><br/>
-<sub>Colecciones avanzadas y programación funcional</sub>
-</td>
-<td colspan="2"></td>
-</tr>
-</table>
+[![Java Básico](https://img.shields.io/badge/Platzi-Java%20(B%C3%A1sico)-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/12199-course/diploma/detalle/)
+[![Miembro IEEE](https://img.shields.io/badge/IEEE-Miembro%20Activo-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
+[![DSA in Python](https://img.shields.io/badge/DataCamp-DSA%20in%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://mi-portafolio-delta-blue.vercel.app/assets/cert-datacamp-python-dsa.pdf)
 
-<sub>📎 Insignias verificables — el detalle completo, con enlaces a cada certificado (Platzi, Credly, HackerRank, DataCamp, Sololearn), está en la sección <a href="https://mi-portafolio-delta-blue.vercel.app/#certificados">Certificados de mi portafolio</a>.</sub>
+[![Dev Backend](https://img.shields.io/badge/Platzi-Dev%20Backend-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/4656-backend/diploma/detalle/)
+[![Python Básico](https://img.shields.io/badge/HackerRank-Python%20(B%C3%A1sico)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/615dd8f1105f)
+[![SQL Intermedio](https://img.shields.io/badge/DataCamp-SQL%20Intermedio-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/0b37fb97440aa0cba9bd371879b0883786685685)
+
+[![Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b2e906b7-c7de-4767-9734-63a9713fc35b/public_url)
+[![Fundamentos .NET](https://img.shields.io/badge/Platzi-Fundamentos%20.NET-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/12689-fundamentos-dotnet/diploma/detalle/)
+[![Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e91a3112-a314-4750-8520-2d6c3e29ba84/linked_in_profile)
+
+[![Java Intermedio](https://img.shields.io/badge/Sololearn-Java%20Intermedio-1AB3A3?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-IH05GJSJ)
+
+<sub>Cada insignia enlaza directo al certificado verificable. Descripciones completas en la sección <a href="https://mi-portafolio-delta-blue.vercel.app/#certificados">Certificados de mi portafolio</a>.</sub>
 
 </div>
 
@@ -126,46 +109,41 @@
 <summary><b>📂 Ver detalle de cada proyecto</b></summary>
 <br/>
 
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| **[Trabajo con Java](https://github.com/carlosalfonso070717-blip/Trabajo-con-Java)** | Java · OOP | Colección de proyectos y ejercicios aplicando POO, estructuras de datos, algoritmos y buenas prácticas en Java. |
-| **[Sistema de Casino](https://github.com/carlosalfonso070717-blip/Proyecto-de-Casino-en-POO-con-Java)** | Java · OOP | Sistema en POO que administra jugadores, empleados y juegos de casino. Proyecto académico de diseño orientado a objetos. |
-| **[DojoFlow](https://github.com/carlosalfonso070717-blip/DojoFlow.Oficial)** | C# · HTML/JS · AWS | Administración centralizada del flujo de negocio de una academia de artes marciales en Mérida, con despliegue en AWS. |
-| **[market-backend](https://github.com/carlosalfonso070717-blip/market-backend)** | Java · Spring Boot · PostgreSQL | Gestión de un supermercado: compras, clientes y productos. Backend con Spring Boot y PostgreSQL. |
-| **[hotel-backend](https://github.com/carlosalfonso070717-blip/hotel-backend)** | Java · Spring Boot · PostgreSQL | Simulación de la administración del flujo de clientes y trabajo de un hotel. Backend con Spring Boot y PostgreSQL. |
-| **[Portafolio de Evidencias](https://github.com/carlosalfonso070717-blip/Portafolio-de-Evidencias)** | HTML · CSS · JS | Evidencias de proyectos frontend desarrollados como parte de mi formación académica. |
-| **[CatalogoApp](https://github.com/carlosalfonso070717-blip/ArqSoft-S03-Carlos)** | C# · HTML | Catálogo de videojuegos desarrollado en C# con interfaz en HTML. |
+- **[Trabajo con Java](https://github.com/carlosalfonso070717-blip/Trabajo-con-Java)** &nbsp;`Java` `OOP`
+  Colección de proyectos y ejercicios aplicando POO, estructuras de datos, algoritmos y buenas prácticas en Java.
+
+- **[Sistema de Casino](https://github.com/carlosalfonso070717-blip/Proyecto-de-Casino-en-POO-con-Java)** &nbsp;`Java` `OOP`
+  Sistema en POO que administra jugadores, empleados y juegos de casino. Proyecto académico de diseño orientado a objetos.
+
+- **[DojoFlow](https://github.com/carlosalfonso070717-blip/DojoFlow.Oficial)** &nbsp;`C#` `HTML/JS` `AWS`
+  Administración centralizada del flujo de negocio de una academia de artes marciales en Mérida, con despliegue en AWS.
+
+- **[market-backend](https://github.com/carlosalfonso070717-blip/market-backend)** &nbsp;`Java` `Spring Boot` `PostgreSQL`
+  Gestión de un supermercado: compras, clientes y productos. Backend con Spring Boot y PostgreSQL.
+
+- **[hotel-backend](https://github.com/carlosalfonso070717-blip/hotel-backend)** &nbsp;`Java` `Spring Boot` `PostgreSQL`
+  Simulación de la administración del flujo de clientes y trabajo de un hotel. Backend con Spring Boot y PostgreSQL.
+
+- **[Portafolio de Evidencias](https://github.com/carlosalfonso070717-blip/Portafolio-de-Evidencias)** &nbsp;`HTML` `CSS` `JS`
+  Evidencias de proyectos frontend desarrollados como parte de mi formación académica.
+
+- **[CatalogoApp](https://github.com/carlosalfonso070717-blip/ArqSoft-S03-Carlos)** &nbsp;`C#` `HTML`
+  Catálogo de videojuegos desarrollado en C# con interfaz en HTML.
 
 </details>
 
 <br/>
 
-## 🏆 Reconocimientos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6FC3EA,100:A4D99C&height=3&section=header"/>
+
+## 📊 GitHub en números
 
 <div align="center">
-
-| | |
-|---|---|
-| 🥇 | **1er lugar — Buildathon *Happ3n***, Tecnológico de Software |
-| 🌟 | **Talento seleccionado** en visita técnica a **Accenture Mérida** (1 de 6 elegidos) |
-
-</div>
-
-<br/>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosalfonso070717-blip&show_icons=true&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalfonso070717-blip&layout=compact&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9" alt="Top Langs"/>
+<img width="100%" src="https://raw.githubusercontent.com/carlosalfonso070717-blip/carlosalfonso070717-blip/main/github-metrics.svg" alt="GitHub metrics dashboard"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosalfonso070717-blip&theme=dark&hide_border=true&background=070d0f&ring=6FC3EA&fire=A4D99C&currStreakLabel=6FC3EA" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosalfonso070717-blip&bg_color=070d0f&color=6fc3ea&line=6fc3ea&point=a4d99c&area=true&area_color=6fc3ea&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Activity graph"/>
 </div>
 
 <div align="center">
