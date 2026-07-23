@@ -55,6 +55,10 @@ Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica det
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0a0a0a)
 
+<br/>
+
+<img width="700" src="https://raw.githubusercontent.com/carlosalfonso070717-blip/carlosalfonso070717-blip/main/assets/languages-bar.svg" alt="Lenguajes que más domino: Java, SQL, C#, Python"/>
+
 </div>
 
 <div align="center">
@@ -67,19 +71,35 @@ Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica det
 
 <div align="center">
 
-[![Java Básico](https://img.shields.io/badge/Platzi-Java%20(B%C3%A1sico)-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/12199-course/diploma/detalle/)
-[![Miembro IEEE](https://img.shields.io/badge/IEEE-Miembro%20Activo-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
-[![DSA in Python](https://img.shields.io/badge/DataCamp-DSA%20in%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://mi-portafolio-delta-blue.vercel.app/assets/cert-datacamp-python-dsa.pdf)
+<a href="https://platzi.com/p/carlosalfonso070717/curso/12199-course/diploma/detalle/"><img height="34" src="https://img.shields.io/badge/Platzi-Java%20(B%C3%A1sico)-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.ieee.org/"><img height="34" src="https://img.shields.io/badge/IEEE-Miembro%20Activo-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 
-[![Dev Backend](https://img.shields.io/badge/Platzi-Dev%20Backend-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/4656-backend/diploma/detalle/)
-[![Python Básico](https://img.shields.io/badge/HackerRank-Python%20(B%C3%A1sico)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/615dd8f1105f)
-[![SQL Intermedio](https://img.shields.io/badge/DataCamp-SQL%20Intermedio-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/0b37fb97440aa0cba9bd371879b0883786685685)
+<br/><br/>
 
-[![Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b2e906b7-c7de-4767-9734-63a9713fc35b/public_url)
-[![Fundamentos .NET](https://img.shields.io/badge/Platzi-Fundamentos%20.NET-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/carlosalfonso070717/curso/12689-fundamentos-dotnet/diploma/detalle/)
-[![Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/e91a3112-a314-4750-8520-2d6c3e29ba84/linked_in_profile)
+<a href="https://mi-portafolio-delta-blue.vercel.app/assets/cert-datacamp-python-dsa.pdf"><img height="34" src="https://img.shields.io/badge/DataCamp-DSA%20in%20Python-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://platzi.com/p/carlosalfonso070717/curso/4656-backend/diploma/detalle/"><img height="34" src="https://img.shields.io/badge/Platzi-Dev%20Backend-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/></a>
 
-[![Java Intermedio](https://img.shields.io/badge/Sololearn-Java%20Intermedio-1AB3A3?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-IH05GJSJ)
+<br/><br/>
+
+<a href="https://www.hackerrank.com/certificates/iframe/615dd8f1105f"><img height="34" src="https://img.shields.io/badge/HackerRank-Python%20(B%C3%A1sico)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0b37fb97440aa0cba9bd371879b0883786685685"><img height="34" src="https://img.shields.io/badge/DataCamp-SQL%20Intermedio-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/b2e906b7-c7de-4767-9734-63a9713fc35b/public_url"><img height="34" src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://platzi.com/p/carlosalfonso070717/curso/12689-fundamentos-dotnet/diploma/detalle/"><img height="34" src="https://img.shields.io/badge/Platzi-Fundamentos%20.NET-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/e91a3112-a314-4750-8520-2d6c3e29ba84/linked_in_profile"><img height="34" src="https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.sololearn.com/certificates/CC-IH05GJSJ"><img height="34" src="https://img.shields.io/badge/Sololearn-Java%20Intermedio-1AB3A3?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+
+<br/><br/>
 
 <sub>Cada insignia enlaza directo al certificado verificable. Descripciones completas en la sección <a href="https://mi-portafolio-delta-blue.vercel.app/#certificados">Certificados de mi portafolio</a>.</sub>
 
@@ -88,26 +108,6 @@ Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica det
 <br/>
 
 ## 💼 Proyectos destacados
-
-<div align="center">
-
-[![Trabajo con Java](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=Trabajo-con-Java&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/Trabajo-con-Java)
-[![Sistema de Casino](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=Proyecto-de-Casino-en-POO-con-Java&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/Proyecto-de-Casino-en-POO-con-Java)
-
-[![DojoFlow](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=DojoFlow.Oficial&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/DojoFlow.Oficial)
-[![market-backend](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=market-backend&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/market-backend)
-
-[![hotel-backend](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=hotel-backend&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/hotel-backend)
-[![Portafolio de Evidencias](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=Portafolio-de-Evidencias&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/Portafolio-de-Evidencias)
-
-[![CatalogoApp](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=ArqSoft-S03-Carlos&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/ArqSoft-S03-Carlos)
-[![Mi Portafolio Web](https://github-readme-stats.vercel.app/api/pin/?username=carlosalfonso070717-blip&repo=Mi-Portafolio&theme=dark&hide_border=true&bg_color=070d0f&title_color=6FC3EA&text_color=b6c6c9&icon_color=A4D99C)](https://github.com/carlosalfonso070717-blip/Mi-Portafolio)
-
-</div>
-
-<details>
-<summary><b>📂 Ver detalle de cada proyecto</b></summary>
-<br/>
 
 - **[Trabajo con Java](https://github.com/carlosalfonso070717-blip/Trabajo-con-Java)** &nbsp;`Java` `OOP`
   Colección de proyectos y ejercicios aplicando POO, estructuras de datos, algoritmos y buenas prácticas en Java.
@@ -129,8 +129,6 @@ Me apasiona **entender cómo funcionan los sistemas por dentro**: la lógica det
 
 - **[CatalogoApp](https://github.com/carlosalfonso070717-blip/ArqSoft-S03-Carlos)** &nbsp;`C#` `HTML`
   Catálogo de videojuegos desarrollado en C# con interfaz en HTML.
-
-</details>
 
 <br/>
 
